@@ -23,5 +23,4 @@ AudioQuantViz provides tools to generate, quantize, and visualize audio signals 
 
 ```bash
 # Clone the repository
-
-
+git clone https://github.com/juan-codes45/WaveQuantizer-.git
